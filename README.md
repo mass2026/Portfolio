@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo
 
-### [**Click Here to Explore the Live Portfolio**](https://s3portfolio.netlify.app/)
+### [**Click Here to Explore the Live Portfolio**](https://surajpaul-portfolio.netlify.app/)
 
 <div align="center">
   <a href="https://s3portfolio.netlify.app/" target="_blank">
@@ -76,7 +76,7 @@ To explore and run this project on your local machine, follow these simple steps
 
 2.  **Navigate into the project directory:**
     ```sh
-    cd SunilShinde_Portfolio
+    cd SurajPaul_Portfolio
     ```
 
 3.  **Run the project:**
