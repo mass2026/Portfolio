@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Portfolio Banner" width="800"/>
-  <h1><b>Sunil Shinde | Java Developer Portfolio</b></h1>
+  <img src="" alt="Portfolio Banner" width="800"/>
+  <h1><b>Suraj Paul | Java Developer Portfolio</b></h1>
   <p>An interactive and animated personal portfolio built with modern web technologies, featuring a dual-theme system, 3D effects, and a custom cursor experience.</p>
 </div>
 
