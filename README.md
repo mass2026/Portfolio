@@ -59,7 +59,7 @@ This project was built using a combination of foundational and modern technologi
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **Backend Focus**      | `Java`, `Spring Boot`, `Hibernate`, `Microservices`                                                                         |
 | **Frontend**           | `HTML5`, `CSS3 (Flexbox, Grid)`, `JavaScript (ES6+)`, `Bootstrap 5`                                                          |
-| **Databases**          | `MySQL`, `MongoDB`                                                                                                        |
+| **Databases**          | `MySQL`                                                                                                      |
 | **JavaScript Library** | `Vanilla-Tilt.js` (for 3D effects)                                                                                        |
 | **DevOps & Tools**     | `Git`, `GitHub`, `VS Code`, `Netlify (CI/CD & Hosting)`                                                                      |
 
@@ -91,8 +91,8 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and pote
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/s2001)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sunilshinde1319)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sunilshinde5699@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suraj-paul-648113237/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/mass2026)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:surajrpaul11@gmail.com)
 
 </div>
